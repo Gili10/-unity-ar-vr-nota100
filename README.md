@@ -15,7 +15,7 @@
 ### ▶️ https://youtu.be/FuPpAEPX4lc
 
 [![Video Demo](https://img.youtube.com/vi/FuPpAEPX4lc/0.jpg)](https://youtu.be/FuPpAEPX4lc)
-
+![Capa](capa%20git%20realidade%20virtual.jpg)
 **Clique na imagem acima ou acesse:** https://youtu.be/FuPpAEPX4lc
 
 ## 🚀 Tecnologias
